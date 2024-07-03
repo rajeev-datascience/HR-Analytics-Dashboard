@@ -19,7 +19,7 @@ Technologies Used
 Power BI: For creating interactive visualizations and dashboards.
 Data Sources: Employee data including demographics, job roles, and performance metrics.
 How to Use
-Clone the Repository: Clone this repository to your local machine using git clone [repository URL].
+Clone the Repository: Clone this repository to your local machine using git clone [[repository URL](https://github.com/rajeev-datascience/HR-Analytics-Dashboard/tree/main)].
 Open Power BI: Open the Power BI Desktop application.
 Load the Data: Load the provided dataset into Power BI.
 Navigate the Dashboard: Use the interactive elements on the dashboard to explore the data and gain insights.
